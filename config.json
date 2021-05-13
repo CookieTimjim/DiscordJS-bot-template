@@ -1,0 +1,10 @@
+{
+    "TOKEN": "TOKEN",
+    "PREFIX": "=",
+    "ROLES": {
+        "STAFF": {
+            "MOD": "ROLEID",
+            "ADMIN": "ROLEID"
+        }
+    }
+}
